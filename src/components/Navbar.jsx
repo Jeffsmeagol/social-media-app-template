@@ -23,7 +23,6 @@ const Icons = styled(Box)({
   display: "flex",
   alignItems: "center",
   gap: "20px",
-  backgroundColor: "red",
 });
 
 const NavBar = () => {
@@ -50,7 +49,7 @@ const NavBar = () => {
           <Badge badgeContent={4} color="primary">
             <Notifications />
           </Badge>
-          <Avatar sx={{ width: 20, height: 20 }}>H</Avatar>
+          <Avatar sx={{ width: 24, height: 24 }}>H</Avatar>
         </Icons>
         <Box display={{ xs: "block", sm: "none" }}>
           <Avatar sx={{ width: 20, height: 20 }}>H</Avatar>

@@ -80,7 +80,7 @@ const Add = () => {
             <PersonAdd color="error" />
           </Stack>
           <ButtonGroup fullWidth variant="contained">
-            <Button sx={{ width: "100px" }}>Post</Button>
+            <Button>Post</Button>
             <Button>
               <DateRange />
             </Button>

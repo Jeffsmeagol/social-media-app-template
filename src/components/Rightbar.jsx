@@ -73,18 +73,6 @@ const Rightbar = () => {
               alt=""
             />
           </ImageListItem>
-          <ImageListItem>
-            <img
-              src="https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c"
-              alt=""
-            />
-          </ImageListItem>
-          <ImageListItem>
-            <img
-              src="https://images.unsplash.com/photo-1533827432537-70133748f5c8"
-              alt=""
-            />
-          </ImageListItem>
         </ImageList>
         <Typography variant="h6">Latest Conversations</Typography>
         <List
