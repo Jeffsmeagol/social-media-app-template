@@ -11,6 +11,8 @@ A social media app template built using Reactjs and MUI5
 
 ## Screenshots
 
+![dert](https://adebowalejeff.netlify.app/assets/project2.7cc98d85.png)
+
 ### `npm start`
 
 
